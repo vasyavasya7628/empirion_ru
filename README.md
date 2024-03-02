@@ -1,5 +1,5 @@
 # empirion_ru
-# Русская локализация для Empyrion - Galactic Survival
+# Русификатор для Empyrion - Galactic Survival
 ## Порядок установки:
 1.  Просто поместите папку **Content** с заменой в: </br>
 ...\Steam\steamapps\common\Empyrion - Galactic Survival\
